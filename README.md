@@ -9,6 +9,5 @@
 :family: **Amante de mi familia y cada nuevo proyecto**
 
 ### :zap: Actividad reciente
-<!--START_SECTION:activity-->
 <!--RECENT_ACTIVITY:start-->
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:last_update-->
