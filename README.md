@@ -8,6 +8,5 @@
 :rocket: **Innovador en proyectos de software, siempre aprendiendo**  
 :family: **Amante de mi familia y cada nuevo proyecto**
 
-### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
 <!--RECENT_ACTIVITY:last_update-->
